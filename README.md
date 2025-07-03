@@ -7,9 +7,9 @@ Este projeto é um clone da interface principal da Netflix, desenvolvido com foc
 - HTML5
 - CSS3
 
-## 📁 Como usar
+## 📸 Prévia
 
-```bash
-git clone https://github.com/mppne/Clone-da-Interface-da-Netflix
-cd Clone-da-Interface-da-Netflix
-abra o arquivo index.html no navegador
+![img](https://github.com/user-attachments/assets/7ef66380-3571-452e-82f6-f00d6aa23931)
+
+
+
